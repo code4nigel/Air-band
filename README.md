@@ -1,1 +1,2 @@
-# Minor project journey. First Time made it from stretch.
+# Minor project journey.
+made it from stretch.
