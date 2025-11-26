@@ -1,2 +1,2 @@
 # Minor project journey.
-made it from stretch.
+Made it from scratch.
