@@ -389,8 +389,8 @@ This makes it a practical demonstration of software engineering and problem-solv
 
 B.Tech Computer Science (AI & ML)
 
-LNCT Group of Colleges, Bhopal
+LNCTE Group of Colleges, Bhopal
 
-GitHub: *Add your GitHub profile link here*
+GitHub: https://github.com/vishal123-aiml 
 
-LinkedIn: *Add your LinkedIn profile link here*
+LinkedIn: https://www.linkedin.com/in/vishal-kumar-a995013a4
