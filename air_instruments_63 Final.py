@@ -4,14 +4,14 @@ import numpy as np
 import pygame
 import time
 import math
-import os
-import wave
-import struct
-import tkinter as tk
-from tkinter import filedialog
-import platform
-import subprocess
-import threading
+import os     # os mojule ka use files, folders (directories), paths aur operating system se related operations karne ke liye hota hai.
+import wave   # wav file ko read aur write karne ke liye
+import struct    # struct module ka use tab hota hai jab aapko binary data ko efficiently encode ya decode karna hota hai. jaise file formats, networking prtocols, ya low level programming mein.
+import tkinter as tk   # tkinter python ka standard GUI module hai. iska use windows, buttons, text boxes, labels, menus, dialog boxes, etc. banave ke liye hota hai. 
+from tkinter import filedialog   # eska use ptyhon mein open file , save file aur folder selection dialogs dikhane ke liye kiya jata hai. isse user graphival file browser ke through file ya folder select kar sakta hai.
+import platform    # platform is a built in ptyhon module used to retrieve information about the operating system, hardwre, and python runtime environment.
+import subprocess   # python ka built in module hai jo dusre progtams ya system commands ko python ke andar se run karne ke liye use hota hai. 
+import threading     # threading ka use convcurrent (ek saath) tasks ko execute karne ke liye hota hai, jisse program zyada respondive aur efficient ban sakya hai.
 
 # --- PYNPUT SETUP ---
 HAS_PYNPUT = False
