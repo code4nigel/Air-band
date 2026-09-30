@@ -137,8 +137,8 @@ python "air_instruments_63 Final.py"
 ## Contributors
 
 - **Shivanshu Yadav** - [GitHub](https://github.com/code4nigel)
-- **Uday Singh Prajapati**
-- **Vishal Kumar Gupta**
+- **Uday Singh Prajapati** - [GitHub](https://github.com/Uday75906)
+- **Vishal Kumar Gupta** - [GitHub](https://github.com/vishal123-aiml)
 
 ---
 
